@@ -18,7 +18,7 @@
 <p align="center">Currently learning <b>C#</b> and <b>.NET</b> 👨‍💻 </p>
 
 <h3>
-   Dove mi trovi:</h3>
+   My contact details:</h3>
    <ul>
      <li>Email: f.bignardi@hotmail.it</li>
      <li>Linkedin: https://www.linkedin.com/in/francesco-bignardi/</li>
